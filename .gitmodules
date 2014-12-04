@@ -1,0 +1,33 @@
+[submodule "pos/XiaoJianlin"]
+	path = pos/XiaoJianlin
+	url = git@github.com:xiaojianlin/pos-v1.git
+[submodule "pos/WangYao"]
+	path = pos/WangYao
+	url = git@github.com:wangyao11/POS.git
+[submodule "pos/RanYang"]
+	path = pos/RanYang
+	url = git@github.com:ranyang525/pos.git
+[submodule "pos/DuYin"]
+	path = pos/DuYin
+	url = git@github.com:Dale-/pos.git
+[submodule "pos/YanHao"]
+	path = pos/YanHao
+	url = git@github.com:yh15248004/pos.git
+[submodule "pos/GaoFanfan"]
+	path = pos/GaoFanfan
+	url = git@github.com:gaofanfan/pos.git
+[submodule "pos/KongLingyuan"]
+	path = pos/KongLingyuan
+	url = git@github.com:konglingyuan/pos.git
+[submodule "pos/ZhangJianqun"]
+	path = pos/ZhangJianqun
+	url = git@github.com:Joesbeyond/pos.git
+[submodule "pos/JinZiyi"]
+	path = pos/JinZiyi
+	url = git@github.com:ziyiking/pos.git
+[submodule "pos/YangMingkun"]
+	path = pos/YangMingkun
+	url = git@github.com:yangmingkun187/POS_1.git
+[submodule "pos/LiuRong"]
+	path = pos/LiuRong
+	url = git@github.com:liurong92/mypos.git
