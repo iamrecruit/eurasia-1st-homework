@@ -31,3 +31,6 @@
 [submodule "pos/LiuRong"]
 	path = pos/LiuRong
 	url = git@github.com:liurong92/mypos.git
+[submodule "pos/DaiLu"]
+	path = pos/DaiLu
+	url = git@github.com:DLEif/pos1.git
