@@ -8,7 +8,7 @@
 	path = pos/RanYang
 	url = git@github.com:ranyang525/pos.git
 [submodule "pos/DuYin"]
-	path = pos/DuYin
+	path = pos/DuYing
 	url = git@github.com:Dale-/pos.git
 [submodule "pos/YanHao"]
 	path = pos/YanHao
