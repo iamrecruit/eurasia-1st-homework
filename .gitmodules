@@ -58,3 +58,12 @@
 [submodule "web-basic/LiuRong"]
 	path = web-basic/LiuRong
 	url = git@github.com:liurong92/html-and-dom.git
+[submodule "web-basic/XiaoJianlin"]
+	path = web-basic/XiaoJianlin
+	url = git@github.com:xiaojianlin/HTML_and_dom.git
+[submodule "web-basic/WangYao"]
+	path = web-basic/WangYao
+	url = git@github.com:wangyao11/html_and_dom.git
+[submodule "web-basic/ZhangJianqun"]
+	path = web-basic/ZhangJianqun
+	url = git@github.com:Joesbeyond/html-and-dom.git
