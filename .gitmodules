@@ -34,3 +34,27 @@
 [submodule "pos/LiuRong"]
 	path = pos/LiuRong
 	url = git@github.com:liurong92/mypos.git
+[submodule "web-basic/RanYang"]
+	path = web-basic/RanYang
+	url = git@github.com:ranyang525/html_and_dom.git
+[submodule "web-basic/DuYing"]
+	path = web-basic/DuYing
+	url = git@github.com:Dale-/html_and_dom.git
+[submodule "web-basic/YanHao"]
+	path = web-basic/YanHao
+	url = git@github.com:yh15248004/html_and_dom.git
+[submodule "web-basic/GaoFanfan"]
+	path = web-basic/GaoFanfan
+	url = git@github.com:gaofanfan/html_and_dom.git
+[submodule "web-basic/KongLingyuan"]
+	path = web-basic/KongLingyuan
+	url = git@github.com:konglingyuan/html_and_dom.git
+[submodule "web-basic/JinZiyi"]
+	path = web-basic/JinZiyi
+	url = git@github.com:ziyiking/html_and_dom.git
+[submodule "web-basic/YangMingkun"]
+	path = web-basic/YangMingkun
+	url = git@github.com:yangmingkun187/html_and_dom.git
+[submodule "web-basic/LiuRong"]
+	path = web-basic/LiuRong
+	url = git@github.com:liurong92/html-and-dom.git
